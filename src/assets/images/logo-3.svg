@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Livello_2" data-name="Livello 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 454.67 448.12">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#talent_logo2);
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: url(#talent_logo2-4);
+      }
+
+      .cls-3 {
+        fill: url(#talent_logo2-6);
+      }
+
+      .cls-4 {
+        fill: url(#talent_logo2-5);
+      }
+
+      .cls-5 {
+        fill: url(#talent_logo2-2);
+      }
+
+      .cls-6 {
+        fill: url(#talent_logo2-3);
+      }
+    </style>
+    <linearGradient id="talent_logo2" data-name="talent logo2" x1="3.58" y1="132.21" x2="353.77" y2="132.21" gradientTransform="translate(-5.5 5.96) rotate(-.64)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#00d4b9"/>
+      <stop offset="1" stop-color="#5300bf"/>
+    </linearGradient>
+    <linearGradient id="talent_logo2-2" data-name="talent logo2" x1="296.02" y1="392.16" x2="395.33" y2="392.16" xlink:href="#talent_logo2"/>
+    <linearGradient id="talent_logo2-3" data-name="talent logo2" x1="99.95" y1="115.01" x2="200.01" y2="115.01" xlink:href="#talent_logo2"/>
+    <linearGradient id="talent_logo2-4" data-name="talent logo2" x1="97.01" y1="276.56" x2="455.02" y2="276.56" xlink:href="#talent_logo2"/>
+    <linearGradient id="talent_logo2-5" data-name="talent logo2" x1="286.08" y1="95.54" x2="412.44" y2="95.54" xlink:href="#talent_logo2"/>
+    <linearGradient id="talent_logo2-6" data-name="talent logo2" x1="296.02" y1="129.7" x2="395.33" y2="129.7" xlink:href="#talent_logo2"/>
+  </defs>
+  <g id="Livello_1-2" data-name="Livello 1">
+    <g>
+      <path class="cls-1" d="m0,174.07l185.92-2.09L242.51,0l58.96,170.68,51.11-.58s-46.18,43.89-212.97,99.8L0,174.07Z"/>
+      <polygon class="cls-5" points="296.76 377.08 359.09 336.93 397.53 444.74 296.76 377.08"/>
+      <g>
+        <path class="cls-6" d="m96.73,145.96s52.15-39.69,100.13-55.16l-7.84,27.11s-46.62,4.79-92.29,28.05Z"/>
+        <path class="cls-2" d="m152.29,277.58s262.12-76.89,266.25-170.78c0,0,195.06,152.08-321.38,341.32l25.03-80.26s213.15-67.45,284.89-160.5c0,0-127.23,99.01-274.1,132.12l19.31-61.89Z"/>
+        <path class="cls-4" d="m283.31,71.17s78.85-4.09,127.57,29.49l-5.87,21.93s-52.54-27.67-114.21-27.51l-7.49-23.91Z"/>
+        <path class="cls-3" d="m293.67,102.51s60.6,3.05,100.42,36.73l-16.44,19.91s-20.32-28.03-78.24-40.18l-5.74-16.47Z"/>
+      </g>
+    </g>
+  </g>
+</svg>
